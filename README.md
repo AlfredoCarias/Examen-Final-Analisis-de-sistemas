@@ -35,18 +35,14 @@
 ## ` `Descripción de la metodología de trabajo<a name="DESCRIPCION"/>
 
 
-
-
-
-
 ### ` `Introduccion<a name="INTRODUCCION"/>
 
-El presente documento se redacta el desarrollo del proyecto de una billetera electronica para un parque de diversiones en donde se presenta el desarrollo del mismo de forma interactiva e incremental, las herramientas y softwares utilizados, el seguimiento y las responsabilidades de los roles.
+El presente documento se redacta el desarrollo del proyecto de una billetera electronica y administracion para un parque de diversiones en donde se presenta el desarrollo del mismo de forma interactiva e incremental, las herramientas y softwares utilizados, el seguimiento y las responsabilidades de los roles.
 
 
 ### ` `Proposito del proyecto<a name="propocito"/>
 
-* Realizar un programa que cuente con dos tipos de usuarios y funcionalidades. Un usuario que sea para administradores, en donde se debe llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados y cantidad de juegos utilizados por los paquetes sin restricción. El otro usuario para los visitantes del parque donde podran utilizar su teléfono para pagar el uso de cada uno de los juegos utilizando el scanner.
+* Realizar un programa que cuente con dos tipos de usuarios y funcionalidades. Un usuario que sea para administradores, en donde se debe llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados y cantidad de juegos utilizados por los paquetes sin restricción. El otro usuario para los visitantes del parque donde podran utilizar su teléfono para pagar el uso de cada uno de los juegos utilizando el scanner de codigo QR.
 
 
 ### ` `Proposito del documento<a name="propocitodocumento"/>
