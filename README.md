@@ -41,24 +41,17 @@
 
 ### ` `Introduccion<a name="INTRODUCCION"/>
 
-Este documento presenta el analisis desarrollado sobre los proyectos llamados control de pecera y control de temperatura donde se describe la documentacion realizada en el proyecto y la cual se desarrollo en el donde se describe el ciclo de vida del proyecto de forma interactiva e incremental, las herramientas utilizadas, los materiales, el seguimiento del proyectos, las asignaciones, los avances y las responsabilidades de cada intengrande mencionado en el siguiente documento.
-
-
+El presente documento se redacta el desarrollo del proyecto de una billetera electronica para un parque de diversiones en donde se presenta el desarrollo del mismo de forma interactiva e incremental, las herramientas y softwares utilizados, el seguimiento y las responsabilidades de los roles.
 
 
 ### ` `Proposito del proyecto<a name="propocito"/>
 
-* Realizar un control de aforo y temperatura para poder mejorar el control que se solicitan actualmente en los diferentes tipos de negocios existentes para poder llevar un mayor control de las personas que estan ingresando.
-
-* Realizar un control de pecera para tener un mejor manejo de la temperatura, ph, alimetacion y oxigenacion del entorno en que se encuentran los peces .
-
-
+* Realizar un programa que cuente con dos tipos de usuarios y funcionalidades. Un usuario que sea para administradores, en donde se debe llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados y cantidad de juegos utilizados por los paquetes sin restricción. El otro usuario para los visitantes del parque donde podran utilizar su teléfono para pagar el uso de cada uno de los juegos utilizando el scanner.
 
 
 ### ` `Proposito del documento<a name="propocitodocumento"/>
 
-Poder brindar la de mejor manera la informacion del proyecto a las personas implicadas en el desarrollo del proyecto, y de esta manera lograr un mejor progreso y conocimiento del mismo.
-
+Poder brindar la informacion necesaria para que sea 
 
 
 
