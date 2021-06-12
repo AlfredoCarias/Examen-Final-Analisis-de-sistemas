@@ -27,9 +27,11 @@
 
 |  Integrante       | Carnet  	    | Rol  	        |
 |---	            |---	        |---	        |
-|  Alfredo Loyo 	| 18-3306    	| Scrum Master/Product Owner  |
-|  Alfredo Loyo 	| 18-3306 	    | Desarrollador	|
-|  Alfredo Loyo 	| 18-3306     	| Diseño |
+|  Alfredo Loyo 	| 18-3306 	    | Product Owner	|
+|  Participante 1 	| 18-3306    	| Scrum Master  |
+|  Participante 2 	| 18-3306 	    | Desarrollador	|
+|  Participante 3	| 18-3306     	| Desarrollador        |
+|  Participante 4	| 18-3306     	| Diseño        |
 
 
 ## ` `Descripción de la metodología de trabajo<a name="DESCRIPCION"/>
