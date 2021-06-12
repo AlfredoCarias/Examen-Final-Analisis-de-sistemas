@@ -28,10 +28,10 @@
 |  Integrante       | Carnet  	    | Rol  	        |
 |---	            |---	        |---	        |
 |  Alfredo Loyo 	| 18-3306 	    | Product Owner	|
-|  Participante 1 	| 18-3306    	| Scrum Master  |
-|  Participante 2 	| 18-3306 	    | Desarrollador	|
-|  Participante 3	| 18-3306     	| Desarrollador        |
-|  Participante 4	| 18-3306     	| Diseño        |
+|  Participante 1 	|    	        | Scrum Master  |
+|  Participante 2 	|  	            | Desarrollador	|
+|  Participante 3	|    	        | Desarrollador |
+|  Participante 4	|    	        | Diseño        |
 
 
 ## ` `Descripción de la metodología de trabajo<a name="DESCRIPCION"/>
@@ -42,33 +42,26 @@
 El presente documento se redacta el desarrollo del proyecto de una billetera electronica y administracion para un parque de diversiones en donde se presenta el desarrollo del mismo de forma interactiva e incremental, las herramientas y softwares utilizados, el seguimiento y las responsabilidades de los roles.
 
 
-### ` `Proposito del proyecto<a name="propocito"/>
+### ` `Proposito del proyecto<a name="PROPOSITO"/>
 
 * Realizar un programa que cuente con dos tipos de usuarios y funcionalidades. Un usuario que sea para administradores, en donde se debe llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados y cantidad de juegos utilizados por los paquetes sin restricción. El otro usuario para los visitantes del parque donde podran utilizar su teléfono para pagar el uso de cada uno de los juegos utilizando el scanner de codigo QR.
 
 
-### ` `Proposito del documento<a name="propocitodocumento"/>
+### ` `Proposito del documento<a name="PROPOSITODOC"/>
 
-Poder brindar la informacion necesaria para que sea 
+El proposito de este documento es poder brindar la informacion necesaria para que sea de mayor facilidad tanto para los empleados como para los visistantes entender el funcionamiento de cada una de las opciones que se encuentran en el programa y que no haya ningun inconveniente al momento de utilizarla.
 
 
 
 ### ` `Alcance<a name="alcance"/>
 
-1. Desarrollar un prototipo de Medidor temperatura para que un colegio tenga mejor control de cuantos niños se encuentran en las aulas.
-1. Desarrollar un control de pecera para mejoramiento de vida de los peces.
-
+* El alcance de este proyecto es poder facilitar el manejo de los tokens que se utilizan en los parques de diversiones y que los visitantes puedan acceder a la compra de estos de manera mas facil. Ademas de tener un mayor control de los juegos que mas se utilizan y los ingresos que generan.
 
 
 
 ## ` `Metodologia seleccionada<a name="METODOLOGIA"/>
 
-La metodologia seleccionada para este documento fue la metodologia Scrum el cual se explicara por que a continuacion.
-
-
-
-
-
+Se selecciono la metodologia Scrum ya que tiene el beneficio de que nos aporta el ritmo de trabajo sostenible, ya que se adapta a los cambios de manera inmediata consiguiendo un ritmo constante, tanto en duración del sprint como de esfuerzo.
 
 ### ` `¿En que consiste la metodologia Scrum?<a name="Crum"/>
 
@@ -155,3 +148,73 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 |  Sprint#12 28/05/2021 	| [Programacion del alimentador automatico de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/25)  	|   ![](https://files.catbox.moe/1twams.png)	|
 
 
+## ` `Artefactos<a name="Artefactos"/>
+
+
+Se detalla las fases en que se divide esta seccion del documento.
+
+Informacion
+
+  * Pila de producto
+  * Pila de sprint
+
+
+ Sprints
+ 
+ Incremento del desarrollo
+ 
+ Graficas del registro y seguimiento del avance
+ 
+ Comunicacion de los integrantes
+ 
+### ` `Pila de producto<a name="pilaprod"/>
+
+Es donde se presenta los requisitos del sistema o del usuarion en esta metodologia
+
+Medidor De Temperatura
+
+Sistema que sea capaz de medir la temperatura de las personas, que al momento 
+de que esta pase el límite de temperatura (67°) este avise por medio de un buzzer. 
+Además de que también llevara el conteo de las personas que se encuentren 
+adentro del establecimiento
+
+Control de Pecera Automatizada
+
+Sistema que sea capaz de medir la temperatura en la que se encuentra el agua de 
+la pecera, oxigenarla por medio de un relay y que cuenta con un medidor de pH.
+Cuando el sistema detecte que la temperatura se encuentra fuera de los límites, 
+este avisara por medio de un buzzer.
+
+¿Cómo se va realizar?
+
+Utilizando métodos de electrónica, la idea es poder desarrollar los controles para 
+el fácil manejo de temperatura de las personas que entren en el negocio por medio 
+de dispositivos electrónicos y al mismo tiempo el control del manejo de una 
+pecera para el aviso del dueño.
+
+
+### ` `Pila de Sprint<a name="pilasprint"/>
+
+Es donde se presenta los requisitos y las actividades desarrolladas por el equipo del proyecto y donde se detalla los implicados y las responsabilidades
+
+Responsabilidades del gestor del producto
+
+ - Presencia la supervicion del proyecto y de los avances durante las faces del proyecto
+ - Realiza las instrucciones necesarias para el desarrollo del proyecto
+
+Resposabilidades del Scrum Manager
+
+ - Supervisa y recibe las instrucciones del gestor del producto para el desarrollo del proyecto
+ - Asigna las instrucciones a los demas integrantes del proyecto
+ - Supervisa el cumplimiento de actividades del proyecto
+
+Responsabilidades del equipo de desarrollo
+
+ - Elabora las instrucciones proporcionadas en el sprint
+ - Resolucion de dudas entre el cliente y el Scrum Manager
+ - Desarrolla las actividades presentadas
+
+Responsabilidades del equipo de diseño
+
+ - Realiza las actividades presentadas
+ - Resolucion de dudas entre el equipo de desarrollo
