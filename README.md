@@ -44,7 +44,7 @@ El presente documento se redacta el desarrollo del proyecto de una billetera ele
 
 ### ` `Proposito del proyecto<a name="PROPOSITO"/>
 
-* Realizar un programa que cuente con dos tipos de usuarios y funcionalidades. Un usuario que sea para administradores, en donde se debe llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados y cantidad de juegos utilizados por los paquetes sin restricción. El otro usuario para los visitantes del parque donde podran utilizar su teléfono para pagar el uso de cada uno de los juegos utilizando el scanner de codigo QR.
+* Realizar un programa que cuente con dos tipos de usuarios y funcionalidades. Un usuario que sea para administradores, en donde se debe llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados y cantidad de juegos utilizados por paquete sin restricción. El otro usuario para los visitantes del parque donde podran utilizar su teléfono para pagar el uso de cada uno de los juegos utilizando el scanner de codigo QR.
 
 
 ### ` `Proposito del documento<a name="PROPOSITODOC"/>
@@ -67,7 +67,7 @@ Se selecciono la metodologia Scrum ya que tiene el beneficio de que nos aporta e
 
 Es un marco de trabajo de desarrollo agil que se aplican de manera regular un conjunto de buenas practicas para trabajar colaborativamente en equipo y asi poder obtener un mejor resultado posible de proyectos que se caracterizan por adoptar una estrategia de desarrollo incremental en lugar de planificar y la ejecucion del producto ademas de basar la calidad del resultado mas en el conocimiento de las personas en equipos auto organizados.
 
-![](https://files.catbox.moe/h8lykg.png)
+![](https://files.catbox.moe/thb0me.jpg)
 
 
 
@@ -78,44 +78,25 @@ Es un marco de trabajo de desarrollo agil que se aplican de manera regular un co
 La razon de elegir el metodo Scrum es por el desarrollo agil y veloz que tiene por que se involucran todos los integrantes del proyecto y al mismo tiempo todos pueden participar en las actividades del proyecto para poder tener un desarrollo rapido y eficaz, ademas que se puede obtener una planificacion y la ejecucion del mismo se obtiene por el desarrollo de los usuarios.
 
 
-
-
 ## ` `Descripción General del proyecto<a name="GENERAL"/>
 ### ` `Fundamentación<a name="fundamentacion"/>
 
-1. Medidor de temperatura
+1. Sistema Billetera Electronica
 
-Sistema que es capaz de medir la temperatura de las personas, que al momento de que esta pase el límite de temperatura (67°) este avise por medio de un buzzer. Además de que también llevara el conteo del ingreso y egreso de las personas adentro del establecimiento.
+Programa en el que un visitante pueda comprar tokens de manera electronica con tarjetas de credito o debito. Pudiendo escoger los paquetes que se presentan.
 
-2. Control de pecera
+2. Sistema Administracion de ingresos y estadisticas de juegos
 
-Sistema que es capaz de medir la temperatura en la que se encuentra el agua de la pecera, oxigenarla, alimentar de manera automatica y que cuenta con un medidor de pH. Cuando el sistema detecte que la temperatura se encuentra fuera de los límites, este avisara por medio de un buzzer.
+Programa que sea capaz de llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados.
 
 ### ` `Valores de trabajo<a name="valores"/>
 
 Los valores que deben ser practicados por todos los miembros involucrados en el desarrollo del proyecto y que hacen posible que la metodología Scrum tenga éxito son:
 
-1. Respeto
+1. Compromiso
 1. Responsabilidad 
 2. Disciplina 
 5. Transparencia
-
-
-
-
-
-
-
-## ` `Calendario de revisiones<a name="Calendario"/>
-
-
-
-
-|  Fecha 	| Version  	| Descripcion  	|
-|---	|---	|---	|
-|  15/05/2021 	| 1.0  	| Primera presentacion de avances del proyecto  	|
-|  22/05/2021 	| 1.1  	| Segunda presentacion de avances del proyecto  	|
-|  29/05/2021 	| 1.2  	| Presentacion del proyecto final  	|
 
 
 ## ` `Cronograma de actividades<a name="Actividades"/>
@@ -171,33 +152,25 @@ Informacion
 
 Es donde se presenta los requisitos del sistema o del usuarion en esta metodologia
 
-Medidor De Temperatura
+Billetera electronica
 
-Sistema que sea capaz de medir la temperatura de las personas, que al momento 
-de que esta pase el límite de temperatura (67°) este avise por medio de un buzzer. 
-Además de que también llevara el conteo de las personas que se encuentren 
-adentro del establecimiento
+Sistema en el que un visitante pueda comprar tokens de manera electronica con tarjetas de credito o debito. Pudiendo escoger los paquetes que se presentan.
 
-Control de Pecera Automatizada
 
-Sistema que sea capaz de medir la temperatura en la que se encuentra el agua de 
-la pecera, oxigenarla por medio de un relay y que cuenta con un medidor de pH.
-Cuando el sistema detecte que la temperatura se encuentra fuera de los límites, 
-este avisara por medio de un buzzer.
+Sistema Administracion de ingresos y estadisticas de juegos
+
+Programa que sea capaz de llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados.
+
 
 ¿Cómo se va realizar?
 
-Utilizando métodos de electrónica, la idea es poder desarrollar los controles para 
-el fácil manejo de temperatura de las personas que entren en el negocio por medio 
-de dispositivos electrónicos y al mismo tiempo el control del manejo de una 
-pecera para el aviso del dueño.
-
+Por medio del lenguaje de programacion PHP se realizaran los sistemas de billetera electronica y el control de ingresos y estadistica, utilizando a su vez una base de datos realizada en Mysql, en la cual tendra el registro de los datos de usuarios y los ingresos.
 
 ### ` `Pila de Sprint<a name="pilasprint"/>
 
 Es donde se presenta los requisitos y las actividades desarrolladas por el equipo del proyecto y donde se detalla los implicados y las responsabilidades
 
-Responsabilidades del gestor del producto
+Responsabilidades del Product Owner
 
  - Presencia la supervicion del proyecto y de los avances durante las faces del proyecto
  - Realiza las instrucciones necesarias para el desarrollo del proyecto
