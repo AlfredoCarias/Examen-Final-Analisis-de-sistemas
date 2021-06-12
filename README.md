@@ -8,7 +8,7 @@
     - [Alcance](#ALCANCE)
 * [Metodologia seleccionada](#METODOLOGIA)
     - [En que consiste la metodologia Scrum](#SCRUM)
-    - [Por que se escogio el metodo Scrum](#PORQUE)
+    - [Por que se escogio la metodologia Scrum](#PORQUE)
 * [Descripción General del proyecto](#GENERAL)
     - [Fundamentacion](#FUNDAMENTO)
     - [Valores de trabajo](#VALORES)
@@ -19,7 +19,7 @@
 * [Cuadros sobre el desarrollo del proyecto](#CUADROS)
 * [Desarrollo de sprint](#DESPRINT)
 * [Diagramas y circuitos del proyecto](#DIAGRAMAS)
-    - [Diagrama y circuitos de aforo](#WALLET)
+    - [Diagrama y circuitos](#WALLET)
     
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
