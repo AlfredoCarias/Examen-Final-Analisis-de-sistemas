@@ -111,21 +111,21 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 |  Sprint#1 13/06/2021 	| [Selección de requisitos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/1)  	|   ![](https://files.catbox.moe/479ajd.png)	|
 |  Sprint#2 18/06/2021 	| [Diseño del programa](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/3)  	|   ![](https://files.catbox.moe/9xc0fh.png)	|
 |  Sprint#2 18/06/2021 	| [Planificacion de actividades](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/2)  	|   ![](https://files.catbox.moe/w1ibum.png)	|
+|  Sprint#3 23/06/2021 	| [Diseño de interfaz de administrador](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/6)  	|   ![](https://files.catbox.moe/a2u2jf.png)	|
+|  Sprint#3 23/06/2021 	| [Diseño de interfaz del cliente](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/5)  	|   ![](https://files.catbox.moe/vo0lfv.png)	|
+|  Sprint#4 30/06/2021 	| [ Programacion de interfaz de cliente](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/8)  	|   ![](https://files.catbox.moe/5c42wm.png)	|
+|  Sprint#4 30/06/2021 	| [Programación interfaz de login](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/4)  	|   ![](https://files.catbox.moe/h0zdpf.png)	|
+|  Sprint#5 06/07/2021 	| [Diagrama relacional de la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/14)  	|   ![](https://files.catbox.moe/alvkj8.png)	|
+|  Sprint#5 06/07/2021 	| [Planificacion de base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/13)  	|   ![](https://files.catbox.moe/7rgoua.png)	|
+|  Sprint#6 14/07/2021 	| [Programacion de interfaz de administrador](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/7)  	|   ![](https://files.catbox.moe/ppzb2j.png)	|
+|  Sprint#7 20/07/2021 	| [Programacion del escaner del codigo QR](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/16)  	|   ![](https://files.catbox.moe/cnfrip.png)	|
+|  Sprint#7 20/07/2021 	| [Programacion de las tablas de la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/15)  	|   ![](https://files.catbox.moe/sbajz3.png)	|
 
 
-|  Sprint#3 23/06/2021 	| [Diseño de interfaz de administrador](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/6)  	|   ![](https://files.catbox.moe/6czy2v.png)	|
-|  Sprint#3 23/06/2021 	| [Diseño de interfaz del cliente](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/5)  	|   ![](https://files.catbox.moe/81vp5l.png)	|
+|  Sprint#8 27/07/2021 	| [Pruebas del programa sin la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/19)  	|   ![](https://files.catbox.moe/2xfkqm.png)	|
+|  Sprint#8 27/07/2021 	| [Pruebas de la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/18)  	|   ![](https://files.catbox.moe/q7i1re.png)	|
 
 
-|  Sprint#3 19/05/2021 	| [ Programacion del buzzer alertando alta temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/14)  	|   ![](https://files.catbox.moe/kcb97v.png)	|
-|  Sprint#3 19/05/2021 	| [Programación del buzzer alertando aforo completo](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/13)  	|   ![](https://files.catbox.moe/ebh2n2.png)	|
-|  Sprint#4 20/05/2021 	| [Diseño del sistema de temperatura de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/15)  	|   ![](https://files.catbox.moe/uvqs07.png)	|
-|  Sprint#6 22/05/2021 	| [Calibracion de los sensores](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/6)  	|   ![](https://files.catbox.moe/07cuwn.png)	|
-|  Sprint#6 22/05/2021 	| [Segunda presentacion de avances del proyecto](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/8)  	|   ![](https://files.catbox.moe/qo0zba.png)	|
-|  Sprint#7 23/05/2021 	| [Programacion del control de temperatura de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/16)  	|   ![](https://files.catbox.moe/7yw8oe.png)	|
-|  Sprint#7 23/05/2021 	| [Reunión de planificación #2](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/17)  	|   ![](https://files.catbox.moe/uwtdps.png)	|
-|  Sprint#8 24/05/2021 	| [Finalización del sensor de temperatura sin contacto](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/19)  	|   ![](https://files.catbox.moe/2xfkqm.png)	|
-|  Sprint#9 25/05/2021 	| [Finalización del control de aforo](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/21)  	|   ![](https://files.catbox.moe/q7i1re.png)	|
 |  Sprint#9 25/05/2021 	| [Finalización del control de PH](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/22)  	|   ![](https://files.catbox.moe/25ps56.png)	|
 |  Sprint#10 26/05/2021 	| [Programacion de control de ph de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/23)  	|   ![](https://files.catbox.moe/5hpy4a.png)	|
 |  Sprint#10 26/05/2021 	| [Finalización del control de temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/20)  	|   ![](https://files.catbox.moe/uepmo9.png)	|
