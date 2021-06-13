@@ -21,7 +21,7 @@
 * [Modulos del sistema](#DIAGRAMA)
     - [Modulo Cliente](#cliente)
     - [Modulo Administrador](#admin)
-    
+* [Diagrama Relacional del sistema](#relacion)
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
 
@@ -209,3 +209,7 @@ Responsabilidades del equipo de diseño
 
 ![](https://files.catbox.moe/05fvo3.png)
 ![](https://files.catbox.moe/bzhcqj.png)
+
+## ` `Diagrama Relacional del sistema<a name="relacion"/>
+
+![](https://files.catbox.moe/t1dtqi.png)
