@@ -5,6 +5,7 @@
     - [Introduccion](#INTRODUCCION)
     - [Proposito del proyecto](#PROPOSITO)
     - [Funcionalidades del sistema](#funcio)
+    - [Diagrama Relacional del sistema](#relacion)
     - [Proposito del documento](#PROPOSITODOC)
     - [Alcance](#ALCANCE)
 * [Metodologia seleccionada](#METODOLOGIA)
@@ -22,7 +23,6 @@
 * [Diseño del sistema](#DIAGRAMA)
     - [Diseño Cliente](#cliente)
     - [Diseño Administrador](#admin)
-* [Diagrama Relacional del sistema](#relacion)
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
 
@@ -73,7 +73,9 @@ El presente documento se redacta el desarrollo del proyecto de una billetera ele
 
 El proposito de este documento es poder brindar la informacion necesaria para que sea de mayor facilidad tanto para los empleados como para los visistantes entender el funcionamiento de cada una de las opciones que se encuentran en el programa y que no haya ningun inconveniente al momento de utilizarla.
 
+### ` `Diagrama Relacional del sistema<a name="relacion"/>
 
+![](https://files.catbox.moe/t1dtqi.png)
 
 ### ` `Alcance<a name="ALCANCE"/>
 
@@ -233,6 +235,4 @@ Responsabilidades del equipo de diseño
 ![](https://files.catbox.moe/3u4n3t.png)
 ![](https://files.catbox.moe/4wyko8.png)
 
-## ` `Diagrama Relacional del sistema<a name="relacion"/>
 
-![](https://files.catbox.moe/t1dtqi.png)
