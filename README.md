@@ -69,13 +69,15 @@ El presente documento se redacta el desarrollo del proyecto de una billetera ele
 2. Funcionalidad "Cierre de caja e ingresos"
     En este modulo se encuentra el cierre de caja y los ingresos que se obtuvieron en el transcurso del dia.
     
+### ` `Diagrama Relacional del sistema<a name="relacion"/>
+
+![](https://files.catbox.moe/t1dtqi.png)
+    
 ### ` `Proposito del documento<a name="PROPOSITODOC"/>
 
 El proposito de este documento es poder brindar la informacion necesaria para que sea de mayor facilidad tanto para los empleados como para los visistantes entender el funcionamiento de cada una de las opciones que se encuentran en el programa y que no haya ningun inconveniente al momento de utilizarla.
 
-### ` `Diagrama Relacional del sistema<a name="relacion"/>
 
-![](https://files.catbox.moe/t1dtqi.png)
 
 ### ` `Alcance<a name="ALCANCE"/>
 
