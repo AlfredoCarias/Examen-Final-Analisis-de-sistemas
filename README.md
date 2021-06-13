@@ -225,7 +225,7 @@ Responsabilidades del equipo de diseño
 ## ` `Diseños del sistema<a name="DIAGRAMA"/>
 ### ` `Diseño Cliente<a name="cliente"/>
 
-![](https://files.catbox.moe/asvehc.png)![](https://files.catbox.moe/4jlg2i.png)
+![](https://files.catbox.moe/asvehc.png)
 ![](https://files.catbox.moe/em38ca.png)
 ![](https://files.catbox.moe/wi51li.png)
 ![](https://files.catbox.moe/kdf2hp.png)
