@@ -193,4 +193,11 @@ Responsabilidades del equipo de diseño
  - Realiza las actividades presentadas
  - Resolucion de dudas entre el equipo de desarrollo
 
-## ` `Diagramas<a name="DIAGRAMA"/>
+## ` `Modulos del sistema<a name="DIAGRAMA"/>
+### ` `Modulo Cliente<a name="cliente"/>
+
+![](https://files.catbox.moe/asvehc.png)
+![](https://files.catbox.moe/4jlg2i.png)
+![](https://files.catbox.moe/em38ca.png)
+![](https://files.catbox.moe/kdf2hp.png)
+![](https://files.catbox.moe/0i2ygi.png)
