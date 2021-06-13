@@ -216,8 +216,8 @@ Responsabilidades del equipo de diseño
  - Realiza las actividades presentadas
  - Resolucion de dudas entre el equipo de desarrollo
 
-## ` `Modulos del sistema<a name="DIAGRAMA"/>
-### ` `Modulo Cliente<a name="cliente"/>
+## ` `Diseños del sistema<a name="DIAGRAMA"/>
+### ` `Diseño Cliente<a name="cliente"/>
 
 ![](https://files.catbox.moe/asvehc.png)
 ![](https://files.catbox.moe/4jlg2i.png)
@@ -226,10 +226,12 @@ Responsabilidades del equipo de diseño
 ![](https://files.catbox.moe/kdf2hp.png)
 ![](https://files.catbox.moe/0i2ygi.png)
 
-### ` `Modulo Administrador<a name="admin"/>
+### ` `Diseño Administrador<a name="admin"/>
 
-![](https://files.catbox.moe/05fvo3.png)
-![](https://files.catbox.moe/bzhcqj.png)
+![](https://files.catbox.moe/nlyq3w.png)
+![](https://files.catbox.moe/6z6gs2.png)
+![](https://files.catbox.moe/3u4n3t.png)
+![](https://files.catbox.moe/4wyko8.png)
 
 ## ` `Diagrama Relacional del sistema<a name="relacion"/>
 
