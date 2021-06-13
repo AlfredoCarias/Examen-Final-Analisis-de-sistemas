@@ -4,6 +4,7 @@
 * [Descripción de la metodología de trabajo](#DESCRIPCION)
     - [Introduccion](#INTRODUCCION)
     - [Proposito del proyecto](#PROPOSITO)
+    - [Funcionalidades del sistema](#funcio)
     - [Proposito del documento](#PROPOSITODOC)
     - [Alcance](#ALCANCE)
 * [Metodologia seleccionada](#METODOLOGIA)
@@ -47,7 +48,27 @@ El presente documento se redacta el desarrollo del proyecto de una billetera ele
 
 * Realizar un programa que cuente con dos tipos de funcionalidades. Una funcionalidad que sea para administradores, en donde se debe llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados y cantidad de juegos utilizados por paquete sin restricción. La otra funcionalidad para los visitantes del parque donde podran comprar paquetes de tokens y poder utilizar su teléfono para pagar el uso de cada uno de los juegos utilizando el scanner de codigo QR.
 
+### ` `Funcionalidades del sistema<a name="funcio"/>
 
+* Funcionalidad del sistema Cliente
+
+1. Funcionalidad "Mi Billetera"
+    En este modulo se encuentran la cantidad de tokens que tiene el usuario, tambien cuenta con la opcion de poder escanear ek codigo QR de los juegos para poder entrar, ademas de poder comprar mas tokens cuando a este se le acaben.
+
+2. Funcionalidad "Paquetes"
+    En este modulo se encuentran los paquetes que el usuario puede comprar para poder adquirir los tokens, contando con 3 tipos de paquetes: 10, 20 tokens y un paquete sin limite. Al momento de comprar el sistema te redirecciona al modulo de compra.
+    
+3. Funcionalidad "Compra"
+    En este modulo se encuentra el ingreso de las tarjetas de credito o debito para la compra de los paquetes de tokens. El usuario puede comprar los paquetes cuantas veces quiera.   
+    
+* Funcionalidad del sistema Administrador
+
+1. Funcionalidad "Graficos"
+    En este modulo se encuentran las estadisticas mostradas en un grafico de barras en las que se muestran cuales son lo juegos mas utilizados y cuales son los juegos mas utilizados con el paquete sin limite.
+    
+2. Funcionalidad "Cierre de caja e ingresos"
+    En este modulo se encuentra el cierre de caja y los ingresos que se obtuvieron en el transcurso del dia.
+    
 ### ` `Proposito del documento<a name="PROPOSITODOC"/>
 
 El proposito de este documento es poder brindar la informacion necesaria para que sea de mayor facilidad tanto para los empleados como para los visistantes entender el funcionamiento de cada una de las opciones que se encuentran en el programa y que no haya ningun inconveniente al momento de utilizarla.
