@@ -66,9 +66,11 @@ El presente documento se redacta el desarrollo del proyecto de una billetera ele
 1. Funcionalidad "Graficos"
     En este modulo se encuentran las estadisticas mostradas en un grafico de barras en las que se muestran cuales son lo juegos mas utilizados y cuales son los juegos mas utilizados con el paquete sin limite.
     
-2. Funcionalidad "Cierre de caja e ingresos"
-    En este modulo se encuentra el cierre de caja y los ingresos que se obtuvieron en el transcurso del dia.
-    
+2. Funcionalidad "Cierre de caja"
+    En este modulo se encuentra el cierre de caja lo cual es generado por medio de un PDF, en donde se muestra el ingreso diario de la caja.
+  
+3. Funcionalidad "Control de ingresos"  
+    En este modulo se encuentra el control de ingresos el cual se genera en formato PDF, muestra todos los ingresos que lleva el sistema.
 ### ` `Diagrama Relacional del sistema<a name="relacion"/>
 
 ![](https://files.catbox.moe/t1dtqi.png)
