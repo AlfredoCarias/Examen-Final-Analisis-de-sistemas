@@ -66,7 +66,7 @@ Se selecciono la metodologia Scrum ya que tiene el beneficio de que nos aporta e
 
 ### ` `¿En que consiste la metodologia Scrum?<a name="SCRUM"/>
 
-Es un marco de trabajo de desarrollo agil que se aplican de manera regular un conjunto de buenas practicas para trabajar colaborativamente en equipo y asi poder obtener un mejor resultado posible de proyectos que se caracterizan por adoptar una estrategia de desarrollo incremental en lugar de planificar y la ejecucion del producto ademas de basar la calidad del resultado mas en el conocimiento de las personas en equipos auto organizados.
+Es un marco de trabajo o framework utilizado para optimizar el trabajo de equipo en proyectos complejos y monitorear la evolución del producto manteniendo como enfoque la calidad y los tiempos estipulados de entrega. Este método de trabajo se realiza por ciclos de actividades planificadas previamente, las cuales son conocidas como “sprints”, y está compuesta por una planificación de tareas y plazos establecidos de inicio y fin.
 
 ![](https://files.catbox.moe/thb0me.jpg)
 
@@ -76,7 +76,7 @@ Es un marco de trabajo de desarrollo agil que se aplican de manera regular un co
 
 ### ` `¿Porque se escogio el metodo Scrum?<a name="PORQUE"/>
 
-La razon de elegir el metodo Scrum es por el desarrollo agil y veloz que tiene por que se involucran todos los integrantes del proyecto y al mismo tiempo todos pueden participar en las actividades del proyecto para poder tener un desarrollo rapido y eficaz, ademas que se puede obtener una planificacion y la ejecucion del mismo se obtiene por el desarrollo de los usuarios.
+La razon de elegir el metodo Scrum es por su organización ágil y conjunta del proyecto, siendo capaz de responder a posibles contratiempos que aparecen en su desarrollo. Asimismo, tiene por objetivo utilizar el producto lo antes posible, mientras se va mejorando.
 
 
 ## ` `Descripción General del proyecto<a name="GENERAL"/>
