@@ -120,17 +120,14 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 |  Sprint#6 14/07/2021 	| [Programacion de interfaz de administrador](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/7)  	|   ![](https://files.catbox.moe/ppzb2j.png)	|
 |  Sprint#7 20/07/2021 	| [Programacion del escaner del codigo QR](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/16)  	|   ![](https://files.catbox.moe/cnfrip.png)	|
 |  Sprint#7 20/07/2021 	| [Programacion de las tablas de la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/15)  	|   ![](https://files.catbox.moe/sbajz3.png)	|
-
-
-|  Sprint#8 27/07/2021 	| [Pruebas del programa sin la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/19)  	|   ![](https://files.catbox.moe/2xfkqm.png)	|
-|  Sprint#8 27/07/2021 	| [Pruebas de la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/18)  	|   ![](https://files.catbox.moe/q7i1re.png)	|
-
-
-|  Sprint#9 25/05/2021 	| [Finalización del control de PH](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/22)  	|   ![](https://files.catbox.moe/25ps56.png)	|
-|  Sprint#10 26/05/2021 	| [Programacion de control de ph de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/23)  	|   ![](https://files.catbox.moe/5hpy4a.png)	|
-|  Sprint#10 26/05/2021 	| [Finalización del control de temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/20)  	|   ![](https://files.catbox.moe/uepmo9.png)	|
-|  Sprint#11 27/05/2021 	| [Programacion del oxigenador de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/24)  	|   ![](https://files.catbox.moe/lq0s0b.png)	|
-|  Sprint#12 28/05/2021 	| [Programacion del alimentador automatico de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/25)  	|   ![](https://files.catbox.moe/1twams.png)	|
+|  Sprint#8 27/07/2021 	| [Pruebas del programa sin la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/19)  	|   ![](https://files.catbox.moe/90xtjf.png)	|
+|  Sprint#8 27/07/2021 	| [Pruebas de la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/18)  	|   ![](https://files.catbox.moe/5rqblw.png)	|
+|  Sprint#9 01/08/2021 	| [Conexion del programa con la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/17)  	|   ![](https://files.catbox.moe/he0uyh.png)	|
+|  Sprint#10 06/08/2021 	| [Pruebas del funcionamiento del programa con la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/20)  	|   ![](https://files.catbox.moe/a972ps.png)	|
+|  Sprint#11 13/08/2021 	| [Prueba final del funcionamiento de la base de datos y el programa](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/21)  	|   ![](https://files.catbox.moe/b6zdko.png)	|
+|  Sprint#11 13/08/2021 	| [Finalizacion del documento del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/11)  	|   ![](https://files.catbox.moe/nalrv9.png)	|
+|  Sprint#12 20/08/2021 	| [Entrega del documento del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/22)  	|   ![](https://files.catbox.moe/020r4v.png)	|
+|  Sprint#12 20/08/2021 	| [Entrega final del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/12)  	|   ![](https://files.catbox.moe/jjqhd3.png)	|
 
 
 ## ` `Artefactos<a name="Artefactos"/>
