@@ -19,9 +19,9 @@
     - [Pila de sprint](#pilasprint)
 * [Cuadros sobre el desarrollo del proyecto](#CUADROS)
 * [Desarrollo de sprint](#DESPRINT)
-* [Modulos del sistema](#DIAGRAMA)
-    - [Modulo Cliente](#cliente)
-    - [Modulo Administrador](#admin)
+* [Diseño del sistema](#DIAGRAMA)
+    - [Diseño Cliente](#cliente)
+    - [Diseño Administrador](#admin)
 * [Diagrama Relacional del sistema](#relacion)
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
