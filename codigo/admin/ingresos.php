@@ -12,18 +12,17 @@ function Header()
     // Movernos a la derecha
     $this->Cell(60);
     // Título
-    $this->Cell(150,10,'Cierre de caja',1,0,'C');
+    $this->Cell(70,10,'Control de ingresos',1,0,'C');
     // Salto de línea
     $this->Ln(20);
 
     $this->Cell(30,5, 'FECHA', 1, 0, 'C', 0);
     $this->Cell(25,5, 'ID', 1, 0, 'C', 0);
-    $this->Cell(30,5, 'VENTA', 1, 0, 'C', 0);
-    $this->Cell(35,5, 'PAQUETE', 1, 0, 'C', 0);
-    $this->Cell(35,5, 'CANTIDAD', 1, 0, 'C', 0);
+    $this->Cell(30,5, 'PAQUETE', 1, 0, 'C', 0);
+    $this->Cell(30,5, 'CLIENTE', 1, 0, 'C', 0);
     $this->Cell(25,5, 'PRECIO', 1, 0, 'C', 0);
-    $this->Cell(30,5, 'TOTAL', 1, 0, 'C', 0);  
-    $this->Cell(35,5, 'GANANCIA', 1, 1, 'C', 0);
+    $this->Cell(30,5, 'CANTIDAD', 1, 0, 'C', 0);
+    $this->Cell(20,5, 'TOTAL', 1, 1, 'C', 0);
 }
 
 // Pie de página
@@ -39,7 +38,7 @@ function Footer()
 }
 
 
-$pdf = new PDF('L', 'mm', array(300,279));
+$pdf = new PDF();
 $pdf->AliasNbPages();
 $pdf->AddPage();
 $pdf->SetFont('Arial','',16);

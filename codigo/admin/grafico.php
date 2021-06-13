@@ -11,11 +11,38 @@
     <title>Estadistica</title>
     <link rel="stylesheet" href="estilo.css">
  <link rel="stylesheet" href="../cliente/wallet.css">
+
 </head>
 
 <body>
-
 <?php require_once("menu.php");?>
+<div class="container">
+<div class="chart-wrap horizontal" style="position:absolute; top:51%; left:40%;">
+<canvas id="myCanvas" style="background: cian;"></canvas>
+    <legend for="myCanvas"></legend>
+    <script type="text/javascript" src="script.js"></script>
+    
+    </div>   </div> 
+
+
+
+    <div class="chart-wrap horizontal" style="position:absolute; top:10%; left:35%;">
+
+<div class="title">Juegos mas utilizados con paquete sin limites</div>
+<br><br><br>
+
+
+<div class="grid">
+<div class="bar" style="--bar-value:70%;" data-name="Zipper"></div>
+    <div class="bar" style="--bar-value:23%;" data-name="Montaña Rusa"></div>
+    <div class="bar" style="--bar-value:7%;" data-name="Rascacielos" ></div>
+    <div class="bar" style="--bar-value:38%;" data-name="Gusanito" ></div>
+    <div class="bar" style="--bar-value:20%;" data-name="Carritos Chocones"></div>
+</div>
+
+</div>
+
+<!--
 <div class="container">
 <div class="chart-wrap horizontal" style="position:absolute; top:10%; left:20%;">
 
@@ -55,7 +82,7 @@
 
 </div>
 
-</div>
+</div>-->
  
 
 </body>
