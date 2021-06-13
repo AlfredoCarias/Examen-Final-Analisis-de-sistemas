@@ -222,7 +222,7 @@ Responsabilidades del equipo de diseño
 ![](https://files.catbox.moe/asvehc.png)
 ![](https://files.catbox.moe/4jlg2i.png)
 ![](https://files.catbox.moe/em38ca.png)
-![](https://files.catbox.moe/yxdp34.JPG)
+![](https://files.catbox.moe/wi51li.png)
 ![](https://files.catbox.moe/kdf2hp.png)
 ![](https://files.catbox.moe/0i2ygi.png)
 
