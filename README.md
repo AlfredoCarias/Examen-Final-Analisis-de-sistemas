@@ -204,4 +204,7 @@ Responsabilidades del equipo de diseño
 ![](https://files.catbox.moe/kdf2hp.png)
 ![](https://files.catbox.moe/0i2ygi.png)
 
-### ` `Modulo Cliente<a name="cliente"/>
+### ` `Modulo Cliente<a name="admin"/>
+
+![](https://files.catbox.moe/05fvo3.png)
+![](https://files.catbox.moe/bzhcqj.png)
