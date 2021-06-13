@@ -128,6 +128,7 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 |  Sprint#12 20/08/2021 	| [Entrega del documento del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/22)  	|   ![](https://files.catbox.moe/020r4v.png)	|
 |  Sprint#12 20/08/2021 	| [Entrega final del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/12)  	|   ![](https://files.catbox.moe/jjqhd3.png)	|
 
+[](https://files.catbox.moe/zixbmv.png)
 
 ## ` `Artefactos<a name="Artefactos"/>
 
