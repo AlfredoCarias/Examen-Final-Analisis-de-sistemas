@@ -18,7 +18,9 @@
     - [Pila de sprint](#pilasprint)
 * [Cuadros sobre el desarrollo del proyecto](#CUADROS)
 * [Desarrollo de sprint](#DESPRINT)
-* [Diagramas y diseños del proyecto](#DIAGRAMA)
+* [Modulos del sistema](#DIAGRAMA)
+    - [Modulo Cliente](#cliente)
+    - [Modulo Cliente](#admin)
     
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
@@ -201,3 +203,5 @@ Responsabilidades del equipo de diseño
 ![](https://files.catbox.moe/em38ca.png)
 ![](https://files.catbox.moe/kdf2hp.png)
 ![](https://files.catbox.moe/0i2ygi.png)
+
+### ` `Modulo Cliente<a name="cliente"/>
