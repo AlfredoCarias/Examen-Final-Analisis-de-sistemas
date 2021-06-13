@@ -18,7 +18,7 @@
     - [Pila de sprint](#pilasprint)
 * [Cuadros sobre el desarrollo del proyecto](#CUADROS)
 * [Desarrollo de sprint](#DESPRINT)
-* [Diagramas y diseños del proyecto](#DIAGRAMAS)
+* [Diagramas y diseños del proyecto](#DIAGRAMA)
     
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
@@ -192,3 +192,5 @@ Responsabilidades del equipo de diseño
 
  - Realiza las actividades presentadas
  - Resolucion de dudas entre el equipo de desarrollo
+
+## ` `Diagramas<a name="DIAGRAMA"/>
