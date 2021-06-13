@@ -44,7 +44,7 @@ El presente documento se redacta el desarrollo del proyecto de una billetera ele
 
 ### ` `Proposito del proyecto<a name="PROPOSITO"/>
 
-* Realizar un programa que cuente con dos tipos de usuarios y funcionalidades. Un usuario que sea para administradores, en donde se debe llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados y cantidad de juegos utilizados por paquete sin restricción. El otro usuario para los visitantes del parque donde podran utilizar su teléfono para pagar el uso de cada uno de los juegos utilizando el scanner de codigo QR.
+* Realizar un programa que cuente con dos tipos de funcionalidades. Una funcionalidad que sea para administradores, en donde se debe llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados y cantidad de juegos utilizados por paquete sin restricción. La otra funcionalidad para los visitantes del parque donde podran comprar paquetes de tokens y poder utilizar su teléfono para pagar el uso de cada uno de los juegos utilizando el scanner de codigo QR.
 
 
 ### ` `Proposito del documento<a name="PROPOSITODOC"/>
@@ -106,13 +106,19 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 
 |  Sprints 	    | Actividad  |  Screenshot  	|
 |---	        |---	     |---	            |
-|  Sprint#1 17/05/2021	| [Primera presentacion de avances del proyecto](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/1)	|![](https://files.catbox.moe/72gb98.png)	|
-|  Sprint#1 17/05/2021 	| [Pedido de base para el sensor de temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/7)|![](https://files.catbox.moe/fk207p.png) |
-|  Sprint#1 17/05/2021 	| [Recepcion de materiales](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/5)  	|   ![](https://files.catbox.moe/zuaku3.png)	|
-|  Sprint#1 17/05/2021 	| [Programacion de contador utilizando HC-SR05](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/10)  	|   ![](https://files.catbox.moe/b2ndeh.png)	|
-|  Sprint#2 18/05/2021 	| [Diseño del sistema de control de temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/11)  	|   ![](https://files.catbox.moe/fbk52h.png)	|
-|  Sprint#2 18/05/2021 	| [Diseño del sistema de aforo usando HC-SR05](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/9)  	|   ![](https://files.catbox.moe/6czy2v.png)	|
-|  Sprint#2 18/05/2021 	| [Programacion de medidor de temperatura utilizando GY-906](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/12)  	|   ![](https://files.catbox.moe/81vp5l.png)	|
+|  Sprint#1 13/06/2021	| [Realizacion del documento del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/10)	|![](https://files.catbox.moe/0vq85s.png)	|
+|  Sprint#1 13/06/2021 	| [Presentacion inicial del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/9)|![](https://files.catbox.moe/p4vxnd.png) |
+|  Sprint#1 13/06/2021 	| [Selección de requisitos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/1)  	|   ![](https://files.catbox.moe/479ajd.png)	|
+
+
+|  Sprint#2 18/06/2021 	| [Diseño del programa](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/3)  	|   ![](https://files.catbox.moe/b2ndeh.png)	|
+|  Sprint#2 18/06/2021 	| [Planificacion de actividades](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/2)  	|   ![](https://files.catbox.moe/fbk52h.png)	|
+
+
+|  Sprint#3 23/06/2021 	| [Diseño de interfaz de administrador](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/6)  	|   ![](https://files.catbox.moe/6czy2v.png)	|
+|  Sprint#3 23/06/2021 	| [Diseño de interfaz del cliente](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/5)  	|   ![](https://files.catbox.moe/81vp5l.png)	|
+
+
 |  Sprint#3 19/05/2021 	| [ Programacion del buzzer alertando alta temperatura](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/14)  	|   ![](https://files.catbox.moe/kcb97v.png)	|
 |  Sprint#3 19/05/2021 	| [Programación del buzzer alertando aforo completo](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/13)  	|   ![](https://files.catbox.moe/ebh2n2.png)	|
 |  Sprint#4 20/05/2021 	| [Diseño del sistema de temperatura de la pecera](https://github.com/Echigna/Proyecto-de-analisis-de-sistemas/issues/15)  	|   ![](https://files.catbox.moe/uvqs07.png)	|
