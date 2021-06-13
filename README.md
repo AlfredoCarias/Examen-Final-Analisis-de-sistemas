@@ -53,7 +53,7 @@ El proposito de este documento es poder brindar la informacion necesaria para qu
 
 
 
-### ` `Alcance<a name="alcance"/>
+### ` `Alcance<a name="ALCANCE"/>
 
 * El alcance de este proyecto es poder facilitar el manejo de los tokens que se utilizan en los parques de diversiones y que los visitantes puedan acceder a la compra de estos de manera mas facil. Ademas de tener un mayor control de los juegos que mas se utilizan y los ingresos que generan.
 
@@ -63,7 +63,7 @@ El proposito de este documento es poder brindar la informacion necesaria para qu
 
 Se selecciono la metodologia Scrum ya que tiene el beneficio de que nos aporta el ritmo de trabajo sostenible, ya que se adapta a los cambios de manera inmediata consiguiendo un ritmo constante, tanto en duración del sprint como de esfuerzo.
 
-### ` `¿En que consiste la metodologia Scrum?<a name="Crum"/>
+### ` `¿En que consiste la metodologia Scrum?<a name="SCRUM"/>
 
 Es un marco de trabajo de desarrollo agil que se aplican de manera regular un conjunto de buenas practicas para trabajar colaborativamente en equipo y asi poder obtener un mejor resultado posible de proyectos que se caracterizan por adoptar una estrategia de desarrollo incremental en lugar de planificar y la ejecucion del producto ademas de basar la calidad del resultado mas en el conocimiento de las personas en equipos auto organizados.
 
@@ -73,13 +73,13 @@ Es un marco de trabajo de desarrollo agil que se aplican de manera regular un co
 
 
 
-### ` `¿Porque se escogio el metodo Scrum?<a name="eligio"/>
+### ` `¿Porque se escogio el metodo Scrum?<a name="PORQUE"/>
 
 La razon de elegir el metodo Scrum es por el desarrollo agil y veloz que tiene por que se involucran todos los integrantes del proyecto y al mismo tiempo todos pueden participar en las actividades del proyecto para poder tener un desarrollo rapido y eficaz, ademas que se puede obtener una planificacion y la ejecucion del mismo se obtiene por el desarrollo de los usuarios.
 
 
 ## ` `Descripción General del proyecto<a name="GENERAL"/>
-### ` `Fundamentación<a name="fundamentacion"/>
+### ` `Fundamentación<a name="FUNDAMENTO"/>
 
 1. Sistema Billetera Electronica
 
@@ -89,7 +89,7 @@ Programa en el que un visitante pueda comprar tokens de manera electronica con t
 
 Programa que sea capaz de llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados.
 
-### ` `Valores de trabajo<a name="valores"/>
+### ` `Valores de trabajo<a name="VALORES"/>
 
 Los valores que deben ser practicados por todos los miembros involucrados en el desarrollo del proyecto y que hacen posible que la metodología Scrum tenga éxito son:
 
@@ -99,7 +99,7 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 5. Transparencia
 
 
-## ` `Cronograma de actividades<a name="Actividades"/>
+## ` `Cronograma de actividades<a name="ACTIVIDADES"/>
 
 
 
