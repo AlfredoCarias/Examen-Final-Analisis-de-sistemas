@@ -18,8 +18,7 @@
     - [Pila de sprint](#pilasprint)
 * [Cuadros sobre el desarrollo del proyecto](#CUADROS)
 * [Desarrollo de sprint](#DESPRINT)
-* [Diagramas y circuitos del proyecto](#DIAGRAMAS)
-    - [Diagrama y circuitos](#WALLET)
+* [Diagramas y diseños del proyecto](#DIAGRAMAS)
     
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
