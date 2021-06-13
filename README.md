@@ -20,7 +20,7 @@
 * [Desarrollo de sprint](#DESPRINT)
 * [Modulos del sistema](#DIAGRAMA)
     - [Modulo Cliente](#cliente)
-    - [Modulo Cliente](#admin)
+    - [Modulo Administrador](#admin)
     
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
