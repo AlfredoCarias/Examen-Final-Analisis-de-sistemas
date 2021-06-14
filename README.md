@@ -23,6 +23,7 @@
 * [Diseño del sistema](#DIAGRAMA)
     - [Diseño Cliente](#cliente)
     - [Diseño Administrador](#admin)
+* [Anexos](#anexos)
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
 
@@ -238,5 +239,7 @@ Responsabilidades del equipo de diseño
 ![](https://files.catbox.moe/6z6gs2.png)
 ![](https://files.catbox.moe/3u4n3t.png)
 ![](https://files.catbox.moe/4wyko8.png)
+
+## ` `Anexos<a name="anexos"/>
 
 
